@@ -32,5 +32,5 @@ Repository ini berisi implementasi lengkap konsep matematika yang digunakan dala
 - **Solution**: T-test untuk membandingkan rata-rata
 
 ### 3. A/B Testing Fitur Retensi Pengguna
-**Problem**: Apakah fitur baru meningkatkan conversion rate?
-**Solution**: Z-test untuk proporsi
+- **Problem**: Apakah fitur baru meningkatkan conversion rate?
+- **Solution**: Z-test untuk proporsi
