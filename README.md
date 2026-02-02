@@ -24,12 +24,12 @@ Repository ini berisi implementasi lengkap konsep matematika yang digunakan dala
 ## 📖 Studi Kasus
 
 ### 1. Klasifikasi Jenis Burung (Naive Bayes)
-**Problem**: Klasifikasi jenis burung berdasarkan karakteristik fisik
-**Solution**: Implementasi Naive Bayes dari scratch
+- **Problem**: Klasifikasi jenis burung berdasarkan karakteristik fisik
+- **Solution**: Implementasi Naive Bayes dari scratch
 
 ### 2. A/B Testing Sistem Rekomendasi Artikel
-**Problem**: Apakah sistem rekomendasi meningkatkan jumlah artikel yang dibaca?
-**Solution**: T-test untuk membandingkan rata-rata
+- **Problem**: Apakah sistem rekomendasi meningkatkan jumlah artikel yang dibaca?
+- **Solution**: T-test untuk membandingkan rata-rata
 
 ### 3. A/B Testing Fitur Retensi Pengguna
 **Problem**: Apakah fitur baru meningkatkan conversion rate?
